@@ -6,6 +6,10 @@
 	objectVersion = 110;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		9B2DD6BD30657B1900A06585 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9B2DD6BC30657B1900A06585 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		9B62085B3064D2B200CB7606 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9B2DD6BC30657B1900A06585 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9B62084D3064D2B000CB7606 /* GitPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B62085A3064D2B200CB7606 /* GitPracticeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitPracticeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B6208643064D2B200CB7606 /* GitPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,6 +74,7 @@
 		9B6208443064D2B000CB7606 = {
 			isa = PBXGroup;
 			children = (
+				9B2DD6BC30657B1900A06585 /* README.md */,
 				9B62084F3064D2B000CB7606 /* GitPractice */,
 				9B62085D3064D2B200CB7606 /* GitPracticeTests */,
 				9B6208673064D2B200CB7606 /* GitPracticeUITests */,
@@ -197,6 +203,7 @@
 		9B62084B3064D2B000CB7606 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			files = (
+				9B2DD6BD30657B1900A06585 /* README.md in Resources */,
 			);
 		};
 		9B6208583064D2B200CB7606 /* Resources */ = {

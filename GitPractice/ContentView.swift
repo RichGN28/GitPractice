@@ -16,6 +16,11 @@ struct ContentView: View {
                 .font(.headline)
         }
         .padding()
+        
+        
+        Text("Learning Git one commit at a time.")
+            .font(.subheadline)
+            .foregroundColor(.secondary)
     }
 }
 
